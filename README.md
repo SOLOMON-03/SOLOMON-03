@@ -1,8 +1,16 @@
-- Hi, I’m SOLOMON A
-- I’m interested in learning stuff.
-- Fast Learner.
+### Hi there 👋, My name is Solomon
+#### I am Full-Stack Developer and Student at Karpagam College of Engineering 
+Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learning. To get an opportunity where I can make the best of my potential and contribute to the organization’s growth.
 
-<!---
-SOLOMON-03/SOLOMON-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Language: JAVA / JS / HTML / CSS / TAILWIND CSS 
+
+Framework: REACT 
+
+BackEnd:  NODE / EXPRESS 
+
+Database: MONGODB / MYSQL
+
+Tools: VSCODE / CANVA / FIGMA
+
+- 🌱 I’m currently learning UI & UX DESIGN 
+- 📫 How to reach me: solomon172003@gmail.com 
