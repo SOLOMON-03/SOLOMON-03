@@ -4,7 +4,7 @@ Seeking a challenging position in a reputed organization where I can learn new s
 
 Language: JAVA / JS / HTML / CSS / TAILWIND CSS 
 
-Framework: REACT 
+Framework: REACT / REACT NATIVE / NEXTJS
 
 BackEnd:  NODE / EXPRESS 
 
